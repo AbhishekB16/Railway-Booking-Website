@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Roboto',
+    monospace;
+}
