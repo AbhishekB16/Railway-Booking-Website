@@ -8,3 +8,7 @@ Screen Shots/Working
 
 
 ![image](https://user-images.githubusercontent.com/71171349/112754940-18784d80-8ffc-11eb-87ac-557f587fb336.png)
+![image](https://user-images.githubusercontent.com/71171349/112754979-4fe6fa00-8ffc-11eb-843b-0c35ee170418.png)
+![image](https://user-images.githubusercontent.com/71171349/112754987-5ecdac80-8ffc-11eb-8542-67e8d001f16c.png)
+![image](https://user-images.githubusercontent.com/71171349/112754998-71e07c80-8ffc-11eb-96ee-8dfaf00ef41c.png)
+![image](https://user-images.githubusercontent.com/71171349/112755007-7f960200-8ffc-11eb-8577-da81f46b0e43.png)
